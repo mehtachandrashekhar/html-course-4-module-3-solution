@@ -1,0 +1,45 @@
+* {
+  box-sizing: border-box;
+}
+h1 {
+  margin-bottom: 15px;
+  text-align:center;
+  font-family:algerian;
+  color:#F1C40F;
+}
+div{
+  margin:auto;
+}
+
+.content {
+  width: 90%;
+  height: 250px;
+  margin-right:auto;
+  margin-left:auto;
+  padding:3px; 
+
+  font-family:casteller;
+  color: black;
+  border:1px solid green;
+  border-radius:5px;
+  background-color:purple;
+  color:white;
+  text-align:justify;
+
+  position:relative;
+  top:10px;
+
+  
+  
+}
+section{
+  border:1px solid red;
+  float:right;
+  background-color:orange;
+  margin:auto;
+ }
+  
+.row {
+  width: 100%;
+}
+  
