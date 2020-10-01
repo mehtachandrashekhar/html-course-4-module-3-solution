@@ -25,6 +25,9 @@ Amazing project
 
 **Bold** and _Italic_ and `Code` text
 
+<b>...</b> is used for bold
+<i>...</i> is used for italic
+
 [Link](url) and ![Image](src)
 ```
 
